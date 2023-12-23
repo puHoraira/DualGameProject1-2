@@ -29,3 +29,7 @@ git clone https://github.com/puHoraira/DualGameProject1-2.git
 cd DualGameProject1-2
 
 cd sourceCodes
+
+g++ chessmain.cpp tiktakshape.cpp chessAI.cpp game.cpp starter.cpp chessboard.cpp copyofMain.cpp tiktakevent.cpp main.cpp chess.cpp credit.cpp tiktakrender.cpp piecemanager.cpp checkmatePage.cpp -lSDL2 -lSDL2_image -lSDL2_ttf -o openGame
+
+./openGame
