@@ -5,8 +5,8 @@
 Game::Game()
 {
 	// Initialize Time
-	FPS = 60;
-	frameDelay = 1000 / FPS;
+	FPS = 150;
+	frameDelay = 1200 / FPS;
 
 	// Initialize Rules
 	validMove = false;
