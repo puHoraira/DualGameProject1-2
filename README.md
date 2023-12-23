@@ -2,7 +2,7 @@ Assalamualaikom.
 
 Hello!
 
-Welcome to our game project. It's an undergoing game project of CHESS and TIK-TAK-TOE dual game using SDL2 library, c and c++ programming language for CSEDU 1-2 semester FoP project instructed by Mahmudur Rahman Rana.
+Welcome to our game project. It's an undergoing game project of CHESS and TIK-TAK-TOE dual game using SDL2 library, c and c++ programming language for CSEDU 1-2 semester FoP project instructed by Mahmudur Rahman Rana sir (CSEDU).
 
 We took help from some github resources and seniors. Thank you for visit. Hope you will enjoy.
 
@@ -24,4 +24,8 @@ sudo apt install gcc
 
 sudo apt install g++
 
-git clone
+git clone https://github.com/puHoraira/DualGameProject1-2.git
+
+cd DualGameProject1-2
+
+cd sourceCodes
